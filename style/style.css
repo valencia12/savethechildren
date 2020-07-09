@@ -1,0 +1,270 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+@font-face{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    src: url("fonts/GillSansInfantStd-Italic.otf");
+}
+@font-face{
+    font-family: "TradeGothicLTCom-BdCn20";
+    src: url("/fonts/TradeGothicLTCom-BdCn20.ttf");
+}
+
+
+body{
+    background-color: #ffffff;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 0;
+    padding: 10%;
+}
+
+.banner1{
+    width: 100%;
+    height: 100px;
+}
+
+header > ul{
+    padding: 0%;
+    background-color: #ffffff;
+    margin-left: 4em;
+}
+
+
+
+li{
+    display: inline-block;
+    padding-left: 4%;
+    padding-right: 1%;
+    padding-bottom: 1%;
+    padding-top: 1%;
+    justify-content: space-between;
+}
+
+.parent{
+    background-color: #ffffff;;
+}
+
+.img1{
+    width: 94%;
+    height: 20%;
+    margin-top: -70px;
+}
+
+.article1{
+    margin-top: 5em;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    text-align: justify;
+    background-color: #ffffff;;
+}
+
+.subarti2{
+    margin-top: 5em;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    text-align: justify;
+    background-color: #ffffff;;
+}
+
+.article2{
+    background-color: rgb(220, 215, 198);
+    padding: 3em;
+}
+  
+.art1{
+    font-size: 1.3em;
+    margin-right: 20px;
+    margin-bottom: 55px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+
+
+
+
+
+.art2{
+    font-size: 1.3em;
+    padding: .2em;
+}
+
+.pos{
+    margin-left: 3em;
+    margin-bottom: 2em;
+}
+
+.divposi{
+    text-align: center;
+}
+
+.tittleb{
+    padding: 1em 0em .5em 2em;
+    color: #ffffff;
+    background-color: rgb(40, 40, 38);
+}
+
+.article2b{
+    text-align: center;
+    color: rgb(219, 30, 38);
+}
+
+.article2bb{
+    color: rgb(219, 30, 38);
+    font-size: 1.5em;
+}
+
+.articlesub3{
+    display: flex;
+    background-color: white;
+    padding: 0;
+}
+.sizeimg{
+    width: 200px;
+}
+.tittlesuba{
+    margin-top: 3em;
+    text-align: center;
+    color: rgb(219, 30, 38);
+}
+
+.artsub3a{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background-color: rgb(220, 215, 198);
+    padding: 2em 0em .5em 2em;
+}
+
+.artsub3a > div > p{
+    text-align: justify;
+    padding: .5em;
+    font-size: 1.2em;
+}
+
+.img4{
+    width: 30%;
+    margin-left: 20em;
+}
+
+.newb{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-top:4em;
+    margin-bottom: 2em;
+    padding: 2em 0em .5em 2em;
+    background-color: rgb(220, 215, 198);
+}
+
+.newb > div > p{
+    text-align: justify;
+    padding: .5em;
+    font-size: 1.2em;
+}
+
+.imgvc{
+    width: 40%;
+    height: 20%;
+    margin-left: 20em;
+}
+
+.imgvc1{
+    width: 20%;
+    height: 16%;
+    margin-left: 24em;
+}
+
+.centerm{
+    text-align: center;
+}
+
+.tittlethe{
+    background-color: rgb(219, 30, 38);
+    color: white;
+    padding: 2em 2em 2em 2em;
+}
+
+.booksStore{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.booksStore > div > img{
+    width: 90%;
+    margin-left: 3em;
+}
+
+.book2{
+    height: 29.3em;
+}
+
+.textcenter{
+    text-align: center;
+     
+}
+
+.textcolor{
+    color: red;
+    text-align: center;
+    
+}
+
+table{
+    padding: 3em;
+}
+
+tr > th {
+    padding: 2em;
+    font-size: 1.5em;
+    font-family: arial, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: black;
+}
+
+td{
+    padding: 2em;
+    font-size: 1.5em;
+    background-color: grey;
+}
+
+.check1{
+    width: 1.2em;
+    margin-top: 1.7em;
+}
+
+.no{
+    color: red;
+}
+
+.si{
+    color: green;
+}
+
+.gridl{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.posf{
+    width: 100%;
+}
+
+.fot{
+    text-align: center;
+    font-size: 2em;
+}
+
+.footer{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    background-color: rgb(201, 59, 43);
+    color: white;
+    padding: 1em 0 10em 0;
+}
+.footer > div{
+    padding: 4em;
+}
+
+.pfot{
+    text-align: center;
+}
+
