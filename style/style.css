@@ -20,8 +20,10 @@ body{
 }
 
 .banner1{
+    max-width: 100;
     width: 100%;
     height: 100px;
+
 }
 
 header > ul{
@@ -146,6 +148,10 @@ li{
     width: 30%;
     margin-left: 20em;
 }
+.back1{
+    max-width: 100%;
+    
+}
 
 .newb{
     display: grid;
@@ -163,15 +169,18 @@ li{
 }
 
 .imgvc{
-    width: 40%;
-    height: 20%;
-    margin-left: 20em;
+    max-width: 100%;
+    margin-left: 35%;
+    margin-top: -20%;
+}
+
+.imgvcl{
+   padding: 10%;
 }
 
 .imgvc1{
-    width: 20%;
-    height: 16%;
-    margin-left: 24em;
+    max-width: 100%;
+    margin-left: 35%;
 }
 
 .centerm{
@@ -195,7 +204,32 @@ li{
 }
 
 .book2{
-    height: 29.3em;
+    max-width: 100%;
+    height: 50%;
+}
+
+.book21{
+    max-width: 100%;
+    height: 99%;
+}
+
+.video{
+    margin-bottom: 30%;
+}
+
+.book213{
+    max-width: 100%;
+    height: 99%;
+}
+
+.youtube1{
+    max-width: 100%;
+    width: 50%;
+}
+
+.book223{
+    max-width: 100%;
+    height: 99%;    
 }
 
 .textcenter{
