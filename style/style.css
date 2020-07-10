@@ -135,11 +135,15 @@ li{
     background-color: white;
     padding: 0;
 }
+.sizeimg1{
+    width: 200px;
+    margin-bottom: -2px;
+}
 .sizeimg{
     width: 200px;
 }
 .newc > p {
-    font-size: ;
+    font-size: 10px;
 }
 .tittlesuba{
     margin-top: 3em;
@@ -153,7 +157,8 @@ li{
     display: grid;
     grid-template-columns: 1fr 1fr;
     background-color: rgb(220, 215, 198);
-    padding: 2em 0em .5em 2em;
+    margin-top: -9px;
+    padding: 1em 0em .5em 2em;
 }
 
 .artsub3a > div > p{
