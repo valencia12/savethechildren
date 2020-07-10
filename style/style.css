@@ -138,8 +138,12 @@ li{
 .sizeimg{
     width: 200px;
 }
+.newc > p {
+    font-size: ;
+}
 .tittlesuba{
     margin-top: 3em;
+    font-size: 30px;
     text-align: center;
     color: rgb(219, 30, 38);
     font-family:'Trade Gothic' ;
@@ -160,8 +164,9 @@ li{
 
 .img4{
     max-width: 100%;
-    width: 50%;
+    width: 35%;
     margin-left: 35%;
+    margin-top: 80px;
 }
 .back1{
     max-width: 100%;
@@ -190,7 +195,7 @@ li{
 .imgvc{
     max-width: 100%;
     margin-left: 35%;
-    margin-top: -20%;
+    margin-top: -5%;
 }
 
 .imgvcl{
