@@ -3,9 +3,14 @@
     padding: 0;
 }
 @font-face{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    src: url("fonts/GillSansInfantStd-Italic.otf"); 
+    font-family: 'Gill Sans Infanted';
+    src: url("../fonts/GillSansInfantStd.otf"); 
 }
+ @font-face{
+     font-family: 'Gill Sans Nova';
+     src: url("../fonts/GillSansInfantStd-Bold.otf");
+ }
+
 @font-face{
     font-family: 'Trade Gothic';
     src: url("../fonts/TradeGothicLTCom-BdCn20.ttf");
@@ -14,7 +19,7 @@
 
 body{
     background-color: #ffffff;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family:'Gill Sans Infanted';
     margin: 0;
     padding: 10%;
 }
@@ -291,19 +296,19 @@ li{
 }
 
 table{
-    padding: 3em;
-    border-spacing: 20px;
+    padding: 2px;
+    border-spacing: 10px;
 }
 
 tr > th {
-    padding: 2em;
+    padding: 10px;
     font-size: 1.5em;
     font-family: arial, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     background-color: black;
 }
 
 td{
-    padding: 2em;
+    padding: 1em;
     font-size: 1.5em;
     background-color: grey;
     width: 50%;
@@ -317,10 +322,17 @@ td{
 
 .no{
     color: red;
+    font-size: 45px;
 }
 
 .si{
     color: green;
+    font-size: 45px;
+    font-family: 'Gill Sans Nova';
+}
+
+.pego{
+    font-size: 10px;
 }
 
 .gridl{
@@ -359,6 +371,6 @@ td{
 
 .td-subwrapper p {
     font-weight: 500;
-    font-size: 1.3em;
+    font-size: 15px;
 }
 
