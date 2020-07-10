@@ -4,7 +4,7 @@
 }
 @font-face{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    src: url("fonts/GillSansInfantStd-Italic.otf");
+    src: url("fonts/GillSansInfantStd-Italic.otf"); 
 }
 @font-face{
     font-family: 'Trade Gothic';
@@ -292,6 +292,7 @@ li{
 
 table{
     padding: 3em;
+    border-spacing: 20px;
 }
 
 tr > th {
@@ -305,11 +306,13 @@ td{
     padding: 2em;
     font-size: 1.5em;
     background-color: grey;
+    width: 50%;
 }
 
 .check1{
-    width: 1.2em;
-    margin-top: 1.7em;
+    max-width: 40px;
+    margin-right: 20px;
+    
 }
 
 .no{
@@ -347,5 +350,15 @@ td{
 
 .pfot{
     text-align: center;
+}
+
+.td-subwrapper {
+    display: flex;
+    align-items: center;
+}
+
+.td-subwrapper p {
+    font-weight: 500;
+    font-size: 1.3em;
 }
 
