@@ -159,8 +159,9 @@ li{
 }
 
 .img4{
-    width: 30%;
-    margin-left: 20em;
+    max-width: 100%;
+    width: 50%;
+    margin-left: 35%;
 }
 .back1{
     max-width: 100%;
