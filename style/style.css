@@ -376,11 +376,8 @@ td{
 }
 
 .footer{
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    background-color: rgb(201, 59, 43);
-    color: white;
-    padding: 1em 0 10em 0;
+   max-width: 100%;
+   width: 100%;
 }
 .footer > div{
     padding: 4em;
