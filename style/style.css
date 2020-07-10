@@ -109,10 +109,11 @@ li{
 }
 
 .tittleb{
-    padding: 1em 0em .5em 2em;
+    padding: .5em 0em .5em .5em;
     color: #ffffff;
     background-color: rgb(40, 40, 38);
     font-family: 'Trade Gothic';
+    font-size: 25px;
 }
 
 .article2b{
@@ -214,6 +215,10 @@ li{
     margin-top: 12%;
 }
 
+.curve{
+    font-family: ;
+}
+
 .centerm{
     text-align: center;
 }
@@ -221,7 +226,10 @@ li{
 .tittlethe{
     background-color: rgb(219, 30, 38);
     color: white;
-    padding: 2em 2em 2em 2em;
+    padding: 1em 1em 1em 1em;
+    font-size: 25px;
+    font-family: 'Trade Gothic';
+    text-align: center;
 }
 
 .booksStore{
@@ -236,7 +244,7 @@ li{
 
 .book2{
     max-width: 100%;
-    height: 50%;
+    height: 100%;
 }
 
 .book21{
