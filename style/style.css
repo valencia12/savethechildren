@@ -124,6 +124,7 @@ li{
 .article2b{
     text-align: center;
     color: rgb(219, 30, 38);
+    font-family: 'Trade Gothic';
     margin-bottom: 4%;
     font-size: 28px;
 }
@@ -320,13 +321,18 @@ td{
     
 }
 
+.line{
+    max-width: 100%;
+    width: 100%;
+}
 .no{
-    color: red;
+    color: #DB1E26;
     font-size: 45px;
+    font-family: 'Gill Sans Nova';
 }
 
 .si{
-    color: green;
+    color: #8AC43F;
     font-size: 45px;
     font-family: 'Gill Sans Nova';
 }
