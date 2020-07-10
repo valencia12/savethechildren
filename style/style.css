@@ -101,6 +101,7 @@ li{
 
 .divposi{
     text-align: center;
+    padding: 0%;
 }
 
 .tittleb{
@@ -114,6 +115,7 @@ li{
     text-align: center;
     color: rgb(219, 30, 38);
     margin-bottom: 4%;
+    font-size: 28px;
 }
 
 .article2bb{
@@ -121,6 +123,9 @@ li{
     font-size: 1.5em;
 }
 
+.fragment{
+    font-size: 20px;
+}
 .articlesub3{
     display: flex;
     background-color: white;
@@ -133,6 +138,7 @@ li{
     margin-top: 3em;
     text-align: center;
     color: rgb(219, 30, 38);
+    font-family:'Trade Gothic' ;
 }
 
 .artsub3a{
@@ -223,7 +229,7 @@ li{
 
 .video{
     margin-bottom: 30%;
-    margin-left: 5%;
+    margin-left: 10%;
 }
 
 .book213{
