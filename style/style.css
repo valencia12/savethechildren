@@ -197,8 +197,8 @@ li{
     max-width: 100%;
     width: 35%;
     margin-left: 35%;
-    margin-top: -2px;
-
+    margin-top: -13px;
+    padding: 0px 0px 35px;
 }
 .back1{
     max-width: 100%;
@@ -321,7 +321,7 @@ li{
 
 table{
     padding: 2px;
-    border-spacing: 10px;
+    border-spacing: 16px;
 }
 
 tr > th {
