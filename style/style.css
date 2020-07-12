@@ -202,7 +202,7 @@ li{
 }
 .back1{
     max-width: 100%;
-
+    width: 347px;
 }
 
 
@@ -248,7 +248,7 @@ li{
 .centerm{
     text-align: center;
     font-family: 'Gill Sans Nova';
-    font-size: 25px;
+    font-size: 22px;
 }
 
 .tittlethe{
@@ -350,7 +350,7 @@ td{
 }
 .no{
     color: #DB1E26;
-    font-size: 45px;
+    font-size: 35px;
     font-family: 'Gill Sans Nova';
 }
 
@@ -360,7 +360,7 @@ td{
 }
 .si{
     color: #8AC43F;
-    font-size: 45px;
+    font-size: 35px;
     font-family: 'Gill Sans Nova';
 }
 
