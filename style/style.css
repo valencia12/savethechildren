@@ -99,7 +99,7 @@ li{
     font-size: 15px;
     margin-right: 20px;
     margin-bottom: 25px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans Infanted';
 }
 
 .tittle1{
@@ -183,7 +183,7 @@ li{
     display: grid;
     grid-template-columns: 1fr 1fr;
     background-color: rgb(220, 215, 198);
-    margin-top: -9px;
+    margin-top: -10px;
     padding: 2em 0em .5em 2em;
 }
 
@@ -206,6 +206,9 @@ li{
     margin-top: 33px;
 }
 
+.colortd{
+
+}
 
 
 
@@ -213,22 +216,22 @@ li{
 .newb{
     display: grid;
     grid-template-columns: 1fr 1fr;
-    margin-top:4em;
-    margin-bottom: 2em;
+    margin-bottom: -1em;
     padding: 2em 0em .5em 2em;
     background-color: rgb(220, 215, 198);
 }
 
 .newb > div > p{
     text-align: justify;
-    padding: .5em;
+    padding: 5px;
     font-size: 15px;
 }
 
 .imgvc{
     max-width: 100%;
+    width: 223px;
     margin-left: 17%;
-    margin-top: -17%;
+    margin-top: -13%;
 }
 
 .imgvcl{
@@ -240,11 +243,10 @@ li{
     height: 87%;
     margin-left: 46%;
     margin-top: 4%;
+    padding: 0px 0px 15px;
 }
 
-.curve{
-    font-family: ;
-}
+
 
 .centerm{
     text-align: center;
@@ -342,7 +344,7 @@ td{
 .check1{
     max-width: 40px;
     margin-right: 20px;
-    
+    margin-top: 5px;
 }
 
 .line{
@@ -425,7 +427,9 @@ td{
     
 }
 
+.artilce3{
 
+}
 
 .positiontable{
    
@@ -440,3 +444,14 @@ td{
     font-family: 'Gill Sans Nova';
     font-size: 25px;
  }
+
+ .copy{
+     background-color: #222221;
+}
+.copy > p{
+ padding: .5%;
+ margin-left: 40px;
+ color: #ffffff;
+ font-size: 12px;
+ font-family: 'Gill Sans Infanted';
+}   
