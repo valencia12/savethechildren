@@ -21,7 +21,6 @@ body{
     background-color: #ffffff;
     font-family:'Gill Sans Infanted';
     margin: 0;
-
 }
 
 .banner1{
@@ -58,7 +57,8 @@ li{
     font-size: 15px;
 }
 .parent{
-    background-color: #ffffff;;
+    background-color: #ffffff;
+    margin-top: -39px;
 }
 
 .img1{
