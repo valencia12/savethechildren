@@ -195,14 +195,15 @@ li{
 
 .img4{
     max-width: 100%;
-    width: 35%;
+    width: 25%;
     margin-left: 35%;
-    margin-top: -13px;
+    margin-top: 5px;
     padding: 0px 0px 35px;
 }
 .back1{
     max-width: 100%;
     width: 347px;
+    margin-top: 33px;
 }
 
 
@@ -424,9 +425,7 @@ td{
     
 }
 
-.colortd{
-    background-color: #ffffff;
-}
+
 
 .positiontable{
    
